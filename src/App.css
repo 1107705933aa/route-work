@@ -1,0 +1,111 @@
+.header {
+    width: 100%;
+    height: 60px;
+    background-color: #3f51b5;
+    margin-top: -16px;
+}
+
+ul li  {
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+    float: right;
+    line-height: 60px;
+}
+
+.h1 {
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    margin-right: 80px;
+}
+
+.h1:link {
+    color: red;
+}
+
+.h1:active {
+    color: red;
+}
+
+.h2 {
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.h2:link {
+    color: red;
+}
+
+.h2:active {
+    color: red;
+}
+
+.h3 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.zuo1 {
+    width: 200px;
+    height: 550px;
+    margin-top: -16px;
+    background-color: #e9ebfb;
+}
+
+.dao1 {
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    display: block;
+    list-style: none;
+    text-decoration: none;
+    color: #575757;
+    border: 1px solid #d3d3d3;
+}
+
+.dao1:hover {
+    background-color: blue;
+    color: white;
+}
+
+.dao2 {
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    display: block;
+    list-style: none;
+    text-decoration: none;
+    color: #575757;
+    border: 1px solid #d3d3d3;
+}
+
+.dao2:hover {
+    background-color: blue;
+    color: white;
+}
+
+.h9 {
+    position: absolute;
+    top: 100px;
+    left: 600px;
+    color: #f00;
+}
+
+.h6 {
+    position: absolute;
+    top: 100px;
+    left: 600px;
+    color: #f00;
+}
+
+.h7 {
+    position: absolute;
+    top: 100px;
+    left: 600px;
+    color: #f00;
+}
